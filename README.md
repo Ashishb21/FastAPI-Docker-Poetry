@@ -11,5 +11,12 @@ docker-compose up
 docker-compose down
 ```
 ## Deployment
+```
+install sam cli 
+https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html
+https://serverlessland.com/patterns/apigw-lambda-dynamodb
+install mangum
 
+
+```
 ## Additional 
